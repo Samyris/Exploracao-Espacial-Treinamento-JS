@@ -188,5 +188,3 @@ O [FAQ](#faq) contém uma pergunta sobre como alterar o conteúdo de um elemento
 [alterando-o-conteudo]: https://fegemo.github.io/cefet-front-end/classes/js2/#alterando-o-conteudo
 [tipo-string]: https://fegemo.github.io/cefet-front-end/classes/js1/#o-tipo-string
 [const]: https://fegemo.github.io/cefet-front-end/classes/js2/#definindo-constantes
-#   E x p l o r a c a o - E s p a c i a l  
- 
