@@ -176,6 +176,7 @@ O [FAQ](#faq) contém uma pergunta sobre como alterar o conteúdo de um elemento
    - **[Desafio]** Há uma forma mais elegante do que essa primeira que
      usa `if/else`, que é usando o operador de resto da divisão (_i.e._, `%`)
 
+
 [alternando-uma-classe]: https://fegemo.github.io/cefet-front-end/classes/js2/#alternando-uma-classe
 [dom]: https://fegemo.github.io/cefet-front-end/classes/js1/#conhecendo-o-dom
 [click-event]: https://developer.mozilla.org/en-US/docs/Web/Events/click
@@ -188,5 +189,3 @@ O [FAQ](#faq) contém uma pergunta sobre como alterar o conteúdo de um elemento
 [alterando-o-conteudo]: https://fegemo.github.io/cefet-front-end/classes/js2/#alterando-o-conteudo
 [tipo-string]: https://fegemo.github.io/cefet-front-end/classes/js1/#o-tipo-string
 [const]: https://fegemo.github.io/cefet-front-end/classes/js2/#definindo-constantes
-#   E x p l o r a c a o - E s p a c i a l  
- 
